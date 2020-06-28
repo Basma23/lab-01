@@ -1,0 +1,87 @@
+@media screen and (min-width:768px), (max-width:960){
+    /* main{
+        padding: 80px 300px;
+    } */
+    .top{
+        height: 100px;
+        width: 960px;
+    }
+    .nave{
+        height: 600px;
+        width: 200px;
+        margin-top: -0.5px;
+        padding: 300px 50px;
+        box-sizing: border-box;
+    }
+    .secDiv{
+        margin-top: -602px;
+        margin-left: 199.5px;
+        margin-right: -300px;
+    }
+    .sec{
+        height: 200px;
+        width: 380.7px;
+        float: left;
+        margin-right: -1px;
+        padding: 100px 50px;
+        box-sizing: border-box;
+    }
+    .sec1{
+        height: 250px;
+        width: 190.7px;
+        display: inline-block;
+        margin-left: 199.5px;
+        margin-right: -204.3px;
+        margin-top: -1px;
+        padding: 125px 50px;
+        box-sizing: border-box;
+    }
+    .bott{
+        height: 150px;
+        width: 760.5px;
+        margin-left: 199.5px;
+        margin-top: -1px;
+        padding: 74px 50px;
+        box-sizing: border-box;
+    }
+}
+@media screen and (min-width:480px)and (max-width:767px){
+    .top{
+        height: 75px;
+        width: 480px;
+    }
+    .nave{
+        height: 150px;
+        width: 480px;
+        margin-top: -0.5px;
+        padding: 300px 50px;
+        box-sizing: border-box;
+    }
+    .sec{
+        height: 125px;
+        width: 480px;
+        margin-top: -1px;
+        padding: 100px 50px;
+        box-sizing: border-box;
+    }
+    .secDiv1{
+        margin-right: -300px;
+        width: 480px;
+    }
+    .sec1{
+        height: 250px;
+        width: 241px;
+        display: inline-block;
+        margin-right: -5.5px;
+        margin-top: -1px;
+        padding: 125px 50px;
+        box-sizing: border-box;
+    }
+    .bott{
+        height: 80px;
+        width: 480px;
+        margin-top: -1px;
+        padding: 74px 50px;
+        box-sizing: border-box;
+    }
+}
