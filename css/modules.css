@@ -1,7 +1,9 @@
-main div{
-    border: 1px solid #000000;
-    background-color: #dddddd;
+#cont > div {
     text-align: center;
-    padding: 50px;
-    box-sizing: border-box;
+    font-size: 30px;
+}
+div p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
